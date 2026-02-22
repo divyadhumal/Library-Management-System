@@ -12,8 +12,6 @@ The system allows users to:
 - Return books
 - Track transactions
 
-This project is built using Object-Oriented Programming (OOP) concepts and demonstrates basic data management in Java.
-
 ---
 
 ## 🚀 Features
